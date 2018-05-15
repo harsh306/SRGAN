@@ -1,0 +1,13 @@
+vgg-model/*
+.ipynb*
+srgan-master/*
+*/data/*
+*/__pyc*
+vgg19/cifar/data/*
+vgg19/imagenet/data/*
+vgg19/backup/*
+src/lfw/data/*
+src/backup/*
+src/result/*
+__pycache__
+!.gitkeep
