@@ -1,5 +1,5 @@
-#Initial Code reference: 
+### Initial Code reference: 
 https://github.com/tadax/srgan
 
-#CONTACT:
+### CONTACT:
 harshnpatahk@gmail.com
